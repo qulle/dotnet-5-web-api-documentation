@@ -1,5 +1,5 @@
 # Web APIs in dotNET 5
-👋 This is a work-in-progress-project. The intent is to document concepts and techniques related to Web APIs.
+This is a work-in-progress-project. The intent is to document concepts and techniques related to Web APIs.
 
 ## Architecture model
 This model demonstrates the flow that each request is travelling through on its way from the client to the database and back. The yellow boxes are just to show inheritance to framework classes along in what package they resides. The green boxes that are marked with `V1` and `V2` shows what places that requires work when making versions of the API. The red box represents the middleware system that's built into the framework. See [middleware](#11-middlewares) for more info.
