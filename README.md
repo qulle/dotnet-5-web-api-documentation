@@ -36,7 +36,7 @@ $ dotnet tool install --global dotnet-ef
 
 ### 1.2 Clone the repo
 ```
-$ git clone https://github.com/qulle/dotnet-api-architecture-pattern.git
+$ git clone https://github.com/qulle/dotnet-5-web-api-documentation.git
 ```
 
 ### 1.3 MSSQL
