@@ -608,7 +608,7 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 
-When using a named policy and not a default polocy it is not sufficcent just to add the `app.UseCors()` middleware. TODO
+When using a named policy and not a default policy it is not sufficcent to just add the `app.UseCors()` middleware. TODO
 
 ```csharp
 public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
